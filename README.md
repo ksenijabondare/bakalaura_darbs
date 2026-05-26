@@ -18,8 +18,8 @@ test_outputs - algoritma izvaddati: iezīmētas datu kopas ar anomālijam, novē
 
 
 ## Nepieciešamas bibliotēkas
-Python 3.10+
-numpy
-pandas
-matplotlib
-scipy
+- Python 3.10+
+- numpy
+- pandas
+- matplotlib
+- scipy
